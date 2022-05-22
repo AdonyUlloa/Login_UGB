@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    //Menu para informacion
+    <item
+        android:id="@+id/info"
+        android:title="Contact Us"
+        android:icon="@mipmap/ic_launcher"
+        app:showAsAction="ifRoom"/>
+
+    //Menu para salir de la cuenta
+    <item
+        android:id="@+id/exit"
+        android:title="Salir"
+        app:showAsAction="never"/>
+
+
+
+</menu>

@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Login_UGB</string>
+    <string name="signed">signed</string>
+    <string name="email">Email</string>
+    <string name="contrase_a">Contraseña</string>
+    <string name="confirme_contrase_a">Confirme contraseña</string>
+    <string name="ya_tengo_una_cuenta">Ya tengo una cuenta</string>
+    <string name="informaci_n">Información</string>
+    <string name="desarrolladores">Desarrolladores</string>
+    <string name="contacto_us">Contacto Us</string>
+    <string name="derechos_reservados_ugb_2022">Derechos reservados UGB 2022</string>
+    <string name="edwin_adony_ulloa_diaz">Edwin Adony Ulloa Diaz</string>
+    <string name="smis001721_ugb_edu_sv">smis001721@ugb.edu.sv</string>
+    <string name="email">Email</string>
+    <string name="contrase_a">Contraseña</string>
+    <string name="login">login</string>
+    <string name="no_tengo_cuenta_deseo_hacer_una_clik_aqui">No tengo cuenta deseo hacer una, clik aqui</string>
+</resources>
